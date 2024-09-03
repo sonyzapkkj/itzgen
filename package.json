@@ -2,7 +2,7 @@
   "name": "gerador-de-links",
   "version": "1.0.0",
   "description": "Um gerador de links fictícios",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
