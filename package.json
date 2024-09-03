@@ -1,0 +1,15 @@
+{
+  "name": "gerador-de-links",
+  "version": "1.0.0",
+  "description": "Um gerador de links fictícios",
+  "main": "server.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "author": "Sony",
+  "license": "MIT"
+}
